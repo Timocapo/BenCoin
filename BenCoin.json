@@ -1,0 +1,12 @@
+{
+    "name": "Ben Coin",
+    "symbol": "BENC",
+    "description": "We Create Wealth",
+    "image": "https://raw.githubusercontent.com/Timocapo/BenCoin/main/BenCoin.png",
+    "attributes": [
+      {
+        "trait_type": "Item",
+        "value": "Developer Portal"
+      }
+    ]
+  }
